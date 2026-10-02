@@ -1,2 +1,3 @@
 # geodev-lab-project
-A GIS-enabled platform for reporting, managing, tracking, and analyzing estate infrastructure incidents and maintenance operations.
+Healthcare Accessibility and Service Gap Analysis for AkwaIbom State.
+Case Study/ initial Implementation: Uyo Local Government Area
