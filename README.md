@@ -1,4 +1,3 @@
 # geodev-lab-project
-Healthcare Accessibility and Service Gap Analysis for AkwaIbom State.
+Healthcare Accessibility and Service Gap Analysis for Uyo Local Government Area of  State.
 
-Case Study/ initial Implementation: Uyo Local Government Area
